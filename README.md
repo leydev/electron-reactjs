@@ -10,7 +10,7 @@ Bolerplate pré-configurado do electron com react
 ## Configurando o projeto
  - execute `npm install` para instalar as dependências do projeto;
 
-## Executabdo o projeto
+## Executando o projeto
 
 - **Modo desenvolvimento:** `npm start` (A janela do electron deverá abrir);
 - **Modo produção:** execute `npm run build` será criando os arquivos "raw" em `build/`
