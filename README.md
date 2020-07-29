@@ -13,7 +13,7 @@ Bolerplate pré-configurado do electron com react
 ## Executabdo o projeto
 
 - **Modo desenvolvimento:** `npm start` (A janela do electron deverá abrir);
-- **Modo produção:** execute `npm run build` será criando um executável de extenção `.appimage` em `dist/` esse é seu software final
-- **Build para linux:** `npm run linux`
+- **Modo produção:** execute `npm run build` será criando os arquivos "raw" em `build/`
+- **Build para linux:** `npm run linux` será criando um arquivos executável ".appImage" em `/dist`
 
 Mais informações em: [https://www.electron.build/](https://www.electron.build/)
