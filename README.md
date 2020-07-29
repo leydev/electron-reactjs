@@ -8,7 +8,7 @@ Bolerplate pré-configurado do electron com react
  - **npx:** versão 6.14.4
 
 ## Configurando o projeto
- - 3) Step: execute `npm install` para instalar as dependências do projeto;
+ - execute `npm install` para instalar as dependências do projeto;
 
 ## Executabdo o projeto
 
